@@ -1,0 +1,142 @@
+@font-face {
+	font-family: "ubuntu";
+	src: url('C:/Users/Pollo/Desktop/Codetrotters/web-portfolio-hecbel-bootstrap-1/Assets/Fonts/ubuntu-font-family-0.83/Ubuntu-L.ttf');
+}
+
+
+footer {
+  background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url("C:/Users/Pollo/Desktop/Codetrotters/p-1-web-portfoilio/Assets/Images/technology1.jpg") center center no-repeat;
+  margin: 0;
+  padding: 45px 0px;
+  font-family: ubuntu;
+  color: white;
+}
+
+
+header{
+  padding: 67px;
+  font-family: ubuntu;
+  background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url("C:/Users/Pollo/Desktop/Codetrotters/p-1-web-portfoilio/Assets/Images/technology1.jpg") center center no-repeat;
+  background-size: cover;
+  color: white;
+  height:100%;
+  text-align: center;
+  display: flex;
+  padding-top: 50px;
+}
+
+header h1 {
+  text-align: center;
+  font-weight: 600;
+  font-size: 60px;
+  padding-bottom: 25px;
+}
+
+hr {
+  margin: 0 50px;
+}
+
+h4 {
+  padding-top: 10px;
+}
+
+img{
+  width: 100%;
+  height: auto;
+  padding-right: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 60px;
+	box-shadow: 15px 25px 30px black;
+}
+
+li > a {
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+}
+
+main{
+  padding: 15px;
+  font-family: ubuntu;
+  color: white;
+  background-color: rgba(2, 2, 33, 1);
+}
+
+ol {
+  padding: 0;
+  list-style: none;
+  text-align: center;
+}
+
+ol > li {
+  font-size: 20px;
+  margin: 25px;
+}
+
+p {
+  font-size: 19px;
+}
+
+section > div > p > #img-2{
+  width: 10%;;
+  height: 50%;
+}
+
+ul{
+  margin: 0;
+  list-style: none;
+  text-align: center;
+}
+
+ul > li{
+  margin: 0 20px;
+  display: inline;
+  text-align: center;
+  font-weight: 800;
+}
+
+
+#about, #projects, #goals, #education, #skills{
+  color: white;
+  margin: 40px 0;
+  font-family: ubuntu;
+  background-color: rgba(2, 2, 33, 1);
+  font-size: 35px;
+  font-weight: 800;
+  text-align: center;
+}
+
+#projects-1 {
+  color: #6BC5A9;
+  text-align: center;
+  font-weight: 600;
+}
+
+#resume{
+	text-align: center;
+}
+
+#resume-2{
+	font-size: 20px;
+	font-weight: 400;
+	background-color: rgba(0, 0, 0, .8);
+	color: #6BC5A9;
+	padding: 5px;
+}
+
+#short-long-goals{
+  margin: 20px;
+  color: #6BC5A9;
+  font-size: 25px;
+  font-weight: 600;
+	padding: 20px;
+}
+
+#space-1 {
+  margin-bottom: 50px;
+}
+
+#space-2{
+  margin-bottom: 60px;
+}

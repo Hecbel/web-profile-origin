@@ -1,0 +1,7 @@
+@media (max-width: 1000px) {
+/*Utilizo este  metodo para que mi pagina se adapte al tamano del screen del user*/
+  #about-me p {
+    padding-top: 40px;
+  }
+
+}
