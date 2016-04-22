@@ -1,11 +1,11 @@
 @font-face {
 	font-family: "ubuntu";
-	src: url('C:/Users/Pollo/Desktop/Codetrotters/web-portfolio-hecbel-bootstrap-1/Assets/Fonts/ubuntu-font-family-0.83/Ubuntu-L.ttf');
+	src: url('../Fonts/ubuntu-font-family-0.83/Ubuntu-L.ttf');
 }
 
 
 footer {
-  background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url("C:/Users/Pollo/Desktop/Codetrotters/p-1-web-portfoilio/Assets/Images/technology1.jpg") center center no-repeat;
+  background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url("../Images/technology1.jpg") center center no-repeat;
   margin: 0;
   padding: 45px 0px;
   font-family: ubuntu;
@@ -16,7 +16,7 @@ footer {
 header{
   padding: 67px;
   font-family: ubuntu;
-  background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url("C:/Users/Pollo/Desktop/Codetrotters/p-1-web-portfoilio/Assets/Images/technology1.jpg") center center no-repeat;
+  background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ),url("../Images/technology1.jpg") center center no-repeat;
   background-size: cover;
   color: white;
   height:100%;
